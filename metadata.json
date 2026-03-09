@@ -1,0 +1,19 @@
+{
+    "title": "Mathematics: Factorial with Product Notation",
+    "slug": "maths-factorial-product-notation",
+    "description": "Write factorial using product notation and expand compact factorial products into explicit multiplication.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "maths"
+    ],
+    "duration": 1,
+    "prerequisites": [
+        "maths-factorial",
+        "maths-product-notation"
+    ],
+    "related": [
+        "maths-factorial-recursion"
+    ]
+}
